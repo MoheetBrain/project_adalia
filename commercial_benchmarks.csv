@@ -1,0 +1,6 @@
+name,smiles,family,source,Synthesis_Complexity,Est_Cost_GBP_per_kg,MW,LogP,TPSA,Has_Aldehyde
+Mugal_Symrise,CC(C)=CCCC(C)(O)CC=O,Commercial,Symrise,164.7,5,170.25,2.07,37.3,1
+Lilyflore_IFF,CC(C)=CCCC(C)C(O)CCO,Commercial,IFF,148.2,5,186.29,2.11,40.46,0
+Majantol_Takasago,CC(C)=CCCC(C)C(O)CCO,Commercial,Takasago,148.2,5,186.29,2.11,40.46,0
+Floralozone_Givaudan,CC(=O)CC=Cc1ccccc1,Commercial,Givaudan,272.3,50,160.22,2.68,17.07,0
+Nympheal_Firmenich,CC(C)=CCCC(C)(O)CCO,Commercial,Firmenich,143.9,5,172.27,1.87,40.46,0

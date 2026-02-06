@@ -1,0 +1,21 @@
+name,smiles,odor_class,is_muguet,is_floral
+Lilial,CC(C)(C)c1ccc(CC=O)cc1,muguet,1,1
+Lyral,CC(C)=CCCC(C)CC=O,muguet,1,1
+Cyclamen aldehyde,CC(C)=CCCC(C)(O)CC=O,floral,0,1
+Hydroxycitronellal,CC(C)=CCCC(C)(O)CCO,muguet,1,1
+Helional,CC(C)=CCC=C(C)CCC=O,green,0,0
+Floralozone,CC(=O)CC=Cc1ccccc1,floral,0,1
+Linalool,CC(C)=CCCC(C)(O)C=C,floral,0,1
+Geraniol,CC(C)=CCCC(C)=CCO,floral,0,1
+Phenylethyl alcohol,OCCc1ccccc1,floral,0,1
+Benzyl acetate,CC(=O)OCc1ccccc1,floral,0,1
+Eugenol,C=CCc1ccc(O)c(OC)c1,spicy,0,0
+Vanillin,COc1cc(C=O)ccc1O,sweet,0,0
+Coumarin,O=c1ccc2ccccc2o1,sweet,0,0
+Limonene,CC1=CCC(CC1)C(=C)C,citrus,0,0
+Pinene,CC1=CCC2CC1C2(C)C,woody,0,0
+Cedrene,CC1=CCC2(C(C1)C(=C)CCC2C(=C)C)C,woody,0,0
+Santalol,CC1CCC(CC1)C(C)(C)O,woody,0,0
+Patchoulol,CC1=C2CCC(C2(CCC1=O)C)C(=C)C,woody,0,0
+Hexanal,CCCCCC=O,green,0,0
+Nonanal,CCCCCCCCC=O,fatty,0,0
